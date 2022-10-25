@@ -6,7 +6,7 @@ It does this by adding HTML semantics and linking them to the CSS wihout chaning
 Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions and screen readers.
 Making a website accessible is also good for business reasons, one of them being that accessible sites are better positioned in search engines like Google.
 
-Lastly, if your project is deployed, include a link to the deployed application here.
+https://ayahxsheikh.github.io/challenge-horiseon/ 
 
 ## Installation
 
